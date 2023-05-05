@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\bin\Debug\net6.0-windows\RoomLibraryStarovoytova.deps.json
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\bin\Debug\net6.0-windows\RoomLibraryStarovoytova.dll
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\bin\Debug\net6.0-windows\RoomLibraryStarovoytova.pdb
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.AssemblyInfo.cs
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.dll
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\refint\RoomLibraryStarovoytova.dll
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\RoomLibraryStarovoytova.pdb
+C:\Users\student\Desktop\Игнатенко\RoomLibraryStarovoytova\RoomLibraryStarovoytova\obj\Debug\net6.0-windows\ref\RoomLibraryStarovoytova.dll
